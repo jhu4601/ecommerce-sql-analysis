@@ -4,7 +4,7 @@ SQL-based analysis of the Olist Brazilian E-Commerce dataset, a real-world datas
 
 Dataset
 
-Olist Brazilian E-Commerce Public Dataset — 8 tables covering orders, customers, products, sellers, payments, reviews, and geolocation.
+Olist Brazilian E-Commerce Public Dataset — 8 tables covering orders, customers, products, sellers, payments, and reviews.
 
 Questions Answered
 
