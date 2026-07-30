@@ -4,7 +4,7 @@ SQL-based analysis of the Olist Brazilian E-Commerce dataset, a real-world datas
 
 ## Dataset
 
-Olist Brazilian E-Commerce Public Dataset — 8 tables covering orders, customers, products, sellers, payments, and reviews.
+Olist Brazilian E-Commerce Public Dataset, with 8 tables covering orders, customers, products, sellers, payments, and reviews.
 
 # Questions Answered
 
@@ -24,8 +24,8 @@ CDs and music products have the highest customer satisfaction (4.64/5), followed
 
 São Paulo state accounts for 41,746 customers who order, which is over 3x more than Rio de Janeiro (12,852), the second largest market. The top 3 states (SP, RJ, MG) together represent the majority of all orders, reflecting Brazil's economic concentration in the southeast.
 
-Tools
+## Tools
 
 SQL (SQLite), Python (pandas, matplotlib) for visualizations
 
-Key Findings
+## Key Findings
